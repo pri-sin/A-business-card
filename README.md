@@ -6,7 +6,7 @@ This repository contains the source code for a simple, responsive card component
 
 ### Live Demo
 
-You can view a live version of this project here: [View Live Demo](https://www.google.com/search?q=https://your-netlify-link.netlify.app)
+You can view a live version of this project here: [View Live Demo](https://a-business-card.netlify.app/)
 
 -----
 
